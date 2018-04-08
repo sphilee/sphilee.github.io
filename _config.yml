@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://sphilee.me
+url: https://sphilee.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -94,6 +94,6 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: http://sphilee.me
+    base_url: https://sphilee.github.io/
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]

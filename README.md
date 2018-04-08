@@ -1,6 +1,6 @@
-## Arti Annaswamy's Personal Website 
+## GH Lee's Personal Website 
 
-See it here - [artiannaswamy.com](http://artiannaswamy.com)
+See it here - [sphilee.github.io](https://sphilee.github.io/)
 
 Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo) by Sérgio Kopplin @sergiokopplin - [Theme Demo](http://sergiokopplin.github.io/indigo/)
 
@@ -11,12 +11,10 @@ Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokoppli
     |
     <b><a href="README.md#added-customizations">Customizations</a></b>
     |
-    <b><a href="README.md#tutorials">Tutorials</a></b>
-    |
     <b><a href="README.md#license">License</a></b>
 </p>
 
-![Screenshot](https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/screen-shot.png)
+![Screenshot](http://i.imgur.com/H9RtlUN.jpg)
 
 ---
 
@@ -36,15 +34,6 @@ Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokoppli
 - Minimal header for pages other than Home
 - Hidden drafts
 - Individual tag pages
-
-## Tutorials
-
-Here's a couple of blog posts I've written on how I got the site setup - from acquiring the domain to adding customizations to the [Indigo](https://github.com/sergiokopplin/indigo) theme by @sergiokopplin.
-
-- [Build a Blog with Github - Part 1](http://artiannaswamy.com/build-a-github-blog-part-1)
-- [Build a Blog with Github - Part 2](http://artiannaswamy.com/build-a-github-blog-part-2)
-
----
 
 ## License
 
