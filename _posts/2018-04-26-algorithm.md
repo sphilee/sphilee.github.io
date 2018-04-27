@@ -14,7 +14,7 @@ permalink: Algorithm
 
 #### Lesson 2 - Arrays
 - [OddOccurrencesInArray](https://gist.github.com/sphilee/37506d8b29a9a663c17038d29343b9d0)
-- CyclicRotation - 
+- [CyclicRotation](https://gist.github.com/sphilee/4e20c6b67045a16c3f26e1b3dbdd1717)
 
 #### Lesson 3 - Time Complexity
 - [FrogJmp](https://gist.github.com/sphilee/b84e8ce6651c03449e6b62d14f4a63b8) 
