@@ -18,7 +18,7 @@ permalink: Algorithm
 
 #### Lesson 3 - Time Complexity
 - [FrogJmp](https://gist.github.com/sphilee/b84e8ce6651c03449e6b62d14f4a63b8) 
-- PermMissingElem - 
+- [PermMissingElem](https://gist.github.com/sphilee/863bbf452d79bc302eb59176ea69ba96)
 - TapeEquilibrum - 
 
 #### Lesson 4 - Couting Elements
