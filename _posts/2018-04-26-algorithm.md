@@ -10,21 +10,21 @@ summary: "코딜리티 알고리즘 풀이"
 permalink: Algorithm 
 ---
 #### Lesson 1 - Iterations
-- BinaryGap - 
+- [BinaryGap](https://gist.github.com/sphilee/1568a261e4740d56072242ab6b943c43)
 
 #### Lesson 2 - Arrays
-- [OddOccurrencesInArray](https://gist.github.com/sphilee/37506d8b29a9a663c17038d29343b9d0)
 - [CyclicRotation](https://gist.github.com/sphilee/4e20c6b67045a16c3f26e1b3dbdd1717)
+- [OddOccurrencesInArray](https://gist.github.com/sphilee/37506d8b29a9a663c17038d29343b9d0)
 
 #### Lesson 3 - Time Complexity
-- [FrogJmp](https://gist.github.com/sphilee/b84e8ce6651c03449e6b62d14f4a63b8) 
 - [PermMissingElem](https://gist.github.com/sphilee/863bbf452d79bc302eb59176ea69ba96)
+- [FrogJmp](https://gist.github.com/sphilee/b84e8ce6651c03449e6b62d14f4a63b8)
 - [TapeEquilibrum](https://gist.github.com/sphilee/681f60f4dae3053e8ec2843bcab36c31)
 
 #### Lesson 4 - Couting Elements
-- MissingInteger -
-- FrogRiverOne - 
 - [PermCheck](https://gist.github.com/sphilee/d2ad03dcea0c461b65d9baa88638f4b0) 
+- FrogRiverOne - 
+- [MissingInteger](https://gist.github.com/sphilee/b8d4803d53438a4bdcc816809508b9f6)
 - [MaxCounters](https://gist.github.com/sphilee/ca62efed8230246edc59dc1c78b196c8) 
 
 #### Lesson 5 - Prefix Sums
@@ -34,29 +34,33 @@ permalink: Algorithm
 - [MinAvgTwoSlice](https://gist.github.com/sphilee/e97cca79147ef044eb6530602249c64a) 
 
 #### Lesson 6 - Sorting
+
+- [MaxProductOfThree](https://gist.github.com/sphilee/3bf24eb4bf5847aeeeda0aa5bfa35400) 
+
 - [Triangle](https://gist.github.com/sphilee/5f96214c5b3d3da0ba596f7fdeb07ef1) 
 - [Distinct](https://gist.github.com/sphilee/a444f53929edf9f8aac0e264c3f8d869) 
-- [MaxProductOfThree](https://gist.github.com/sphilee/3bf24eb4bf5847aeeeda0aa5bfa35400) 
 - [NumberOfDiscIntersections](https://gist.github.com/sphilee/9bcf216032af2c6e77bceb728e5cf55a) 
 
 #### Lesson 7 - Stacks and Queues
-- Brackets -
-- Fish -
+
 - StoneWall -
-- Nesting - 
+
+- [Brackets](https://gist.github.com/sphilee/8c43ebe53f8cb91ef0e4fd36adc1c5a5)
+- Fish -
+- [Nesting](https://gist.github.com/sphilee/b9ec680063f1641bf2e82d018b72e9e4)
 
 #### Lesson 8 - Leader
-- EquiLeader - 
 - Dominator -
+- EquiLeader - 
 
 #### Lesson 9 - Maximum slice problem
-- MaxDoubleSliceSum -
 - [MaxProfit](https://gist.github.com/sphilee/eb622442d647758052108751456dd722) 
 - [MaxSliceSum](https://gist.github.com/sphilee/ee6f465edf5d5474b03f2929f065ff1e) 
+- MaxDoubleSliceSum -
 
 #### Lesson 10 - Prime and composite numbers
-- MinPerimeterRectangle - 
 - CountFactors -
+- MinPerimeterRectangle - 
 - Flags - 
 - Peaks - 
 
@@ -73,13 +77,13 @@ permalink: Algorithm
 - Ladder -
 
 #### Lesson 14 - Binary search algorithm
-- MinMaxDivision - 
 - NailingPlanks - 
+- MinMaxDivision - 
 
 #### Lesson 15 - Caterpillar method
-- [AbsDistinct](https://gist.github.com/sphilee/9f9b2001dad63fd2f51a7195d9cf6083) 
 - CountDistinctSlices - 
 - [CountTriangles](https://gist.github.com/sphilee/f2b561e51505c18c136680f848022e83) 
+- [AbsDistinct](https://gist.github.com/sphilee/9f9b2001dad63fd2f51a7195d9cf6083) 
 - MinAbsSumOfTwo -
 
 #### Lesson 16 - Greedy algorithms
