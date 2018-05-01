@@ -23,7 +23,7 @@ permalink: Algorithm
 
 #### Lesson 4 - Couting Elements
 - [PermCheck](https://gist.github.com/sphilee/d2ad03dcea0c461b65d9baa88638f4b0) 
-- FrogRiverOne - 
+- [FrogRiverOne](https://gist.github.com/sphilee/d186fe245b5738f478d702342ee6a691)
 - [MissingInteger](https://gist.github.com/sphilee/b8d4803d53438a4bdcc816809508b9f6)
 - [MaxCounters](https://gist.github.com/sphilee/ca62efed8230246edc59dc1c78b196c8) 
 
@@ -43,10 +43,10 @@ permalink: Algorithm
 
 #### Lesson 7 - Stacks and Queues
 
-- StoneWall -
+- [StoneWall](https://gist.github.com/sphilee/d408a910452ed799dfba9d73544d3e36)
 
 - [Brackets](https://gist.github.com/sphilee/8c43ebe53f8cb91ef0e4fd36adc1c5a5)
-- Fish -
+- [Fish](https://gist.github.com/sphilee/508bc361e6b85477c06ebdc3abe83c37)
 - [Nesting](https://gist.github.com/sphilee/b9ec680063f1641bf2e82d018b72e9e4)
 
 #### Lesson 8 - Leader
