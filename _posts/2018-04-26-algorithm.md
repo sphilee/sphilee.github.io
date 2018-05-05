@@ -36,7 +36,6 @@ permalink: Algorithm
 #### Lesson 6 - Sorting
 
 - [MaxProductOfThree](https://gist.github.com/sphilee/3bf24eb4bf5847aeeeda0aa5bfa35400) 
-
 - [Triangle](https://gist.github.com/sphilee/5f96214c5b3d3da0ba596f7fdeb07ef1) 
 - [Distinct](https://gist.github.com/sphilee/a444f53929edf9f8aac0e264c3f8d869) 
 - [NumberOfDiscIntersections](https://gist.github.com/sphilee/9bcf216032af2c6e77bceb728e5cf55a) 
@@ -44,13 +43,12 @@ permalink: Algorithm
 #### Lesson 7 - Stacks and Queues
 
 - [StoneWall](https://gist.github.com/sphilee/d408a910452ed799dfba9d73544d3e36)
-
 - [Brackets](https://gist.github.com/sphilee/8c43ebe53f8cb91ef0e4fd36adc1c5a5)
 - [Fish](https://gist.github.com/sphilee/508bc361e6b85477c06ebdc3abe83c37)
 - [Nesting](https://gist.github.com/sphilee/b9ec680063f1641bf2e82d018b72e9e4)
 
 #### Lesson 8 - Leader
-- Dominator -
+- [Dominator](https://gist.github.com/sphilee/56a450a236342d12f5a429f1c17d9b34)
 - EquiLeader - 
 
 #### Lesson 9 - Maximum slice problem
@@ -73,7 +71,7 @@ permalink: Algorithm
 - [CommonPrimeDivisors](https://gist.github.com/sphilee/4cec791e14b70b500303c3e07113085e) 
 
 #### Lesson 13 - Fibonacci numbers
-- FibFrog -
+- [FibFrog](https://gist.github.com/sphilee/c711a33fb7646169beb806a8641bf140)
 - Ladder -
 
 #### Lesson 14 - Binary search algorithm
@@ -81,7 +79,7 @@ permalink: Algorithm
 - MinMaxDivision - 
 
 #### Lesson 15 - Caterpillar method
-- CountDistinctSlices - 
+- [CountDistinctSlices](https://gist.github.com/sphilee/86825b5bb070f9777971f89eb2439b0a)
 - [CountTriangles](https://gist.github.com/sphilee/f2b561e51505c18c136680f848022e83) 
 - [AbsDistinct](https://gist.github.com/sphilee/9f9b2001dad63fd2f51a7195d9cf6083) 
 - MinAbsSumOfTwo -
@@ -91,5 +89,5 @@ permalink: Algorithm
 - [TieRopes](https://gist.github.com/sphilee/34cf9ce9ac8e9670103f2df5596c3488) 
 
 #### Lesson 17 - Dynamic programming
-- NumberSolitaire -
+- [NumberSolitaire](https://gist.github.com/sphilee/8149f12a389a39fd05d15ff3e9181917)
 - MinAbsSum -
