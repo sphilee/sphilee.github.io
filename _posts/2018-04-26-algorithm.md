@@ -53,11 +53,11 @@ permalink: Algorithm
 
 #### Lesson 9 - Maximum slice problem
 - [MaxProfit](https://gist.github.com/sphilee/eb622442d647758052108751456dd722) 
-- [MaxSliceSum](https://gist.github.com/sphilee/ee6f465edf5d5474b03f2929f065ff1e) 
 - MaxDoubleSliceSum -
+- [MaxSliceSum](https://gist.github.com/sphilee/ee6f465edf5d5474b03f2929f065ff1e) 
 
 #### Lesson 10 - Prime and composite numbers
-- CountFactors -
+- [CountFactors](https://gist.github.com/sphilee/985f06d9909f156ea34997e689206beb)
 - MinPerimeterRectangle - 
 - Flags - 
 - Peaks - 
